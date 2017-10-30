@@ -1,0 +1,1 @@
+Folder created to center all images used in the project.

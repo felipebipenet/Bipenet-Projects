@@ -1,0 +1,1 @@
+*Folder created to centralize all types of files pertaining to project documentation.
